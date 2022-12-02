@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 noi dung cua nhanh master
+=======
+noi dung cua nhanh alpha
+>>>>>>> alpha
