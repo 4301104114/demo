@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Nhanh Alpha
-
-master
-=======
-alpha 
->>>>>>> alpha
+noi dung cua nhanh master
