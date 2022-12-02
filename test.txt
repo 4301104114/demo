@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 day la nhanh belta
 
 noi dung master
+=======
+day la nhanh master
+  
+
+noi dung belta
+>>>>>>> belta
